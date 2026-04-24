@@ -36,4 +36,4 @@ I'm a Software Engineer and Game Developer. Currently, I'm channeling my skills 
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](link-do-seu-linkedin) | [Portfolio](link-do-seu-site)
+[LinkedIn](https://www.linkedin.com/in/victor-hugo-sousa-de-oliveira-7a1b4a312/) | [Portfolio](link-do-seu-site) |
