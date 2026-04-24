@@ -31,7 +31,7 @@ I'm a Software Engineer and Game Developer. Currently, I'm channeling my skills 
 ---
 
 ## 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=unluckwall&show_icons=true&theme=dark)
 
 ---
 
