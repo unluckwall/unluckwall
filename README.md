@@ -4,7 +4,7 @@ I'm a Software Engineer and Game Developer. Currently, I'm channeling my skills 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/887.png" height="30px"> Currently Developing...
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/887.png" height="40px"> Currently Developing...
 ### **[Unnamed]**
 *A game built in Unity.*
 - 🛠️ **Tech:** Advanced C# scripting and performance optimization.
