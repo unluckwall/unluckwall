@@ -1,4 +1,4 @@
-# Hi, I'm Victor Hugo <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/887.png" height="40px">
+# Hi, I'm Victor Hugo <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/887.png" height="60px">
 
 I'm a Software Engineer and Game Developer. Currently, I'm channeling my skills into an unannounced game project for my portfolio. 
 
